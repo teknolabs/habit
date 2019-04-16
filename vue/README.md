@@ -11,7 +11,7 @@ The Vue.js integration for ABP Boilerplate framework. This template is built on 
 
 ```sh
 cd vue
-yarn install 
+yarn install  
 ```
 
 And then start
